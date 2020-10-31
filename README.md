@@ -1,3 +1,5 @@
+Description: Contains links of some projects, to serve as a shortcut. URL: https://www.testdesigns.ml/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
